@@ -37,3 +37,22 @@ _- Leadership_
 _- Logical Thinking_ 
 _- Multitasking_ 
 _- Emotional Intelligence_
+
+### Work Experience
+
+------------
+
+### Education
+
+#### National Technical University of Ukraine
+“Igor Sikorsky Kyiv Polytechnic Institute”
+
+** "Automated control by technological processes"**
+_September 2019 - May 2020 | Ukraine_
+
+### Language proficiency
+
+_English - A2+ (Pre-intermediate)_
+_Ukrainian - B1 (Intermediate)_
+_Russian - C1 (Advanced)_
+_Japanese - A1 (Beginner)_
